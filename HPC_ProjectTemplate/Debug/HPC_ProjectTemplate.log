@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\fcis 3rd year term2\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(124,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\fcis 3rd year term2\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(133,65): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HPC_ProjectTemplate.vcxproj -> E:\fcis 3rd year term2\HPC\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.exe
